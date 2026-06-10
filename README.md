@@ -2,7 +2,7 @@
 
 1) Downloading and formatting pCO2 chemistry data from Natalie Monacci (UAF) that corresponds with OME eDNA data.
    https://www.uaf.edu/cfos/research/oarc/data-resources/
-3) Format and convert carbonate chemistry measurements.
+2) Format and convert carbonate chemistry measurements.
 
 List of OME Alaska and the Arctic Cruises:
 - DY20-12

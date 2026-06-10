@@ -1,33 +1,28 @@
 # Goal: Downloading pCO2 data from Natalie Monacci (UAF) that corresponds to OME eDNA data.
 # url links to download the data into data/raw below.
 
-# DY20-12
-
-# NO20-01
-# SKQ21-15S
+# DY20-12: No pCO2 data
+# NO20-01: No pCO2 data
+# SKQ21-15S -- DONE
 wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/download/278929.1.1.tar.gz
-tar -xvzf data/raw/ 278929.1.1.tar.gz
-
-# DY22-06
-# DY22-09
+tar -xvzf data/raw/278929.1.1.tar.gz -C data/raw/
+# DY22-06: No pCO2 data
+# DY22-09: No pCO2 data
 # RC0083
-# DY23-06
+# DY23-06: No pCO2 data
 # M2-PPS-0423
-# SKQ23-12S
+# SKQ23-12S -- DONE
 wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/download/304115.1.1.tar.gz
-tar -xvzf data/raw/304115.1.1.tar.gz
-
-# DY24-06
-
-# SKQ24-12S
+tar -xvzf data/raw/304115.1.1.tar.gz  -C data/raw/
+# DY24-06: No pCO2 data
+# SKQ24-12S -- DONE
 wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/download/304116.1.1.tar.gz
-tar -xvzf data/raw/304116.1.1.tar.gz
-
-# DY24-10
+tar -xvzf data/raw/304116.1.1.tar.gz -C data/raw/
+# DY24-10: No pCO2 data
 # M8-PPS-0923
 # C12-PPS-0923
 # M2-PPS-0924
 # M8-PPS-0824
-# DY25-04
-# SKQ25-15S
-# DY25-08
+# DY25-04: No pCO2 data
+# SKQ25-15S: No pCO2 data
+# DY25-08: No pCO2 data
