@@ -6,6 +6,7 @@
 # NO20-01
 # SKQ21-15S
 wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/download/278929.1.1.tar.gz
+tar -xvzf data/raw/ 278929.1.1.tar.gz
 
 # DY22-06
 # DY22-09
@@ -14,6 +15,7 @@ wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-mana
 # M2-PPS-0423
 # SKQ23-12S
 wget --show-progress -P data/raw/ https://www.ncei.noaa.gov/archive/archive-management-system/OAS/bin/prd/jquery/download/304115.1.1.tar.gz
+tar -xvzf data/raw/304115.1.1.tar.gz
 
 # DY24-06
 
